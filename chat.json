@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific features would you like to include in the swapping component (e.g., limit orders, market orders)?\", \"option1\": \"Include limit orders\", \"option2\": \"Only basic swaps without limit orders\"}, {\"question 2\": \"How do you envision the layout of the component (e.g., single column, side-by-side)?\", \"option1\": \"Single column layout\", \"option2\": \"Side-by-side layout\"}], \"input_token_count\": 291, \"output_token_count\": 104, \"time_taken\": \"0:00:01.258259\"}",
+        "message_id": "guest09112024063833",
+        "timestamp": "09112024093854",
+        "component_file_name": "simple_footer_component_1731144907",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "pink uniswap-style component for swapping tokens",
         "message_id": "guest09112024063833",
