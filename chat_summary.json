@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a sleek animation for token swapping\", \"checked\": true}, {\"feature\": \"Include a user-friendly tooltip for token selections\", \"checked\": false}, {\"feature\": \"Implement a responsive design for mobile and tablet views\", \"checked\": true}, {\"feature\": \"Incorporate a transaction history section\", \"checked\": false}, {\"feature\": \"Enable dark mode toggle for better accessibility\", \"checked\": false}], \"input_token_count\": 245, \"output_token_count\": 99, \"time_taken\": \"0:00:02.247272\"}",
+        "timestamp": "09112024093859",
+        "message_id": "guest09112024063833"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific features would you like to include in the swapping component (e.g., limit orders, market orders)?\", \"option1\": \"Include limit orders\", \"option2\": \"Only basic swaps without limit orders\"}, {\"question 2\": \"How do you envision the layout of the component (e.g., single column, side-by-side)?\", \"option1\": \"Single column layout\", \"option2\": \"Side-by-side layout\"}], \"input_token_count\": 291, \"output_token_count\": 104, \"time_taken\": \"0:00:01.258259\"}",
         "timestamp": "09112024093854",
